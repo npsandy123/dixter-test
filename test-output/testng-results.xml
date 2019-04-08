@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15133" started-at="2019-04-08T09:43:16Z" finished-at="2019-04-08T09:43:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15133" started-at="2019-04-08T09:43:16Z" finished-at="2019-04-08T09:43:31Z">
+      <class name="com.dixter.test.smoke.Test_Sample">
+        <test-method status="PASS" signature="precondition()[pri:0, instance:com.dixter.test.smoke.Test_Sample@7823a2f9]" name="precondition" is-config="true" duration-ms="12763" started-at="2019-04-08T09:43:16Z" finished-at="2019-04-08T09:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="test_sample()[pri:0, instance:com.dixter.test.smoke.Test_Sample@7823a2f9]" name="test_sample" duration-ms="15" started-at="2019-04-08T09:43:29Z" finished-at="2019-04-08T09:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_sample -->
+        <test-method status="PASS" signature="postcondtion()[pri:0, instance:com.dixter.test.smoke.Test_Sample@7823a2f9]" name="postcondtion" is-config="true" duration-ms="2325" started-at="2019-04-08T09:43:29Z" finished-at="2019-04-08T09:43:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondtion -->
+      </class> <!-- com.dixter.test.smoke.Test_Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
